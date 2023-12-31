@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class LoginRequest {\n  constructor() {}\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

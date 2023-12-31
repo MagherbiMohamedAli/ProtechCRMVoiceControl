@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\nconst randomUUID = typeof crypto !== 'undefined' && crypto.randomUUID && crypto.randomUUID.bind(crypto);\nvar _default = {\n  randomUUID\n};\nexports.default = _default;","map":null,"metadata":{},"sourceType":"script","externalDependencies":[]}
